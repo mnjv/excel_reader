@@ -13,11 +13,10 @@ readme = "README.md"
 keywords = ["excel_reader", "library"]
 
 [tool.poetry.dependencies]
-python = ">=3.9,<3.11"
+python = ">=3.7"
 loguru = "*"
-pandas = "^2.3.1"
-openpyxl = "^3.1.5"
-dataclasses-json = "^0.6.7"
+openpyxl = "*"
+dataclasses-json = "*"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.0"

@@ -1,0 +1,8 @@
+{
+    "name": "students",
+    "rows": [
+        { "RollNo": "101", "Score": "97", "Student Name": "John" },
+        { "RollNo": "102", "Score": "99", "Student Name": "Jane" },
+        { "RollNo": "103", "Score": "98", "Student Name": "Mike" }
+    ]
+}

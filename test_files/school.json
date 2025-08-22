@@ -1,0 +1,45 @@
+{
+  "name": "school.xlsx",
+  "sheets": [
+    {
+      "name": "students",
+      "rows": [
+        {
+          "Student Name": "John",
+          "RollNo": 101.0,
+          "Score": 97.0
+        },
+        {
+          "Student Name": "Jane",
+          "RollNo": 102.0,
+          "Score": 99.0
+        },
+        {
+          "Student Name": "Mike",
+          "RollNo": 103.0,
+          "Score": 98.0
+        }
+      ]
+    },
+    {
+      "name": "teachers",
+      "rows": [
+        {
+          "Teacher ID": 7001.0,
+          "Teacher Name": "Steve",
+          "Main Subject": "English"
+        },
+        {
+          "Teacher ID": 7002.0,
+          "Teacher Name": "Sheldon",
+          "Main Subject": "Physics"
+        },
+        {
+          "Teacher ID": 7003.0,
+          "Teacher Name": "Morrison",
+          "Main Subject": "Chemistry"
+        }
+      ]
+    }
+  ]
+}
